@@ -131,6 +131,12 @@ img { max-width: 100%; }
   padding: 120px 0;
   display: block;
 }
+.blue-bg{
+  background:#FFDEAD;
+  padding: 120px 0;
+  display: block;
+
+}
 .white-bg {
   background: #ffffff;
   padding: 120px 0;
